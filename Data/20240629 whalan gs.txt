@@ -1,0 +1,303 @@
+[State] t:15164 LS:20 ALT:-0.01 VEL:0.02
+[State] mc:0, dc:1, v:7.97, c:44441.89,
+[ERROR]  100 flash
+[State] t:21175 LS:20 ALT:-0.02 VEL:-0.01
+[State] mc:0, dc:1, v:7.99, c:44441.89,
+[ERROR]  100 flash
+[State] t:27186 LS:20 ALT:0.01 VEL:0.05
+[State] mc:0, dc:1, v:7.93, c:44360.81,
+[ERROR]  100 flash
+[State] t:33214 LS:20 ALT:0.00 VEL:0.04
+[State] mc:0, dc:1, v:8.01, c:44387.84,
+[ERROR]  100 flash
+[State] t:39135 LS:20 ALT:0.04 VEL:0.02
+[State] mc:0, dc:1, v:7.99, c:44441.89,
+[ERROR]  100 flash
+[State] t:45168 LS:20 ALT:0.06 VEL:-0.01
+[State] mc:0, dc:1, v:7.99, c:44441.89,
+[ERROR]  100 flash
+[State] t:51211 LS:20 ALT:0.03 VEL:0.02
+[State] mc:0, dc:1, v:8.00, c:44495.95,
+[ERROR]  100 flash
+[State] t:57133 LS:20 ALT:0.01 VEL:0.00
+[State] mc:0, dc:1, v:7.94, c:44279.73,
+[ERROR]  100 flash
+[State] t:63166 LS:20 ALT:0.06 VEL:-0.03
+[State] mc:0, dc:1, v:7.94, c:44550.00,
+[ERROR]  100 flash
+[State] t:69209 LS:20 ALT:0.18 VEL:0.06
+[State] mc:0, dc:1, v:7.97, c:44739.19,
+[ERROR]  100 flash
+[State] t:75148 LS:20 ALT:0.15 VEL:-0.04
+[State] mc:0, dc:1, v:8.00, c:44360.81,
+[ERROR]  100 flash
+[State] t:81165 LS:20 ALT:0.11 VEL:-0.04
+[State] mc:0, dc:1, v:8.01, c:44793.24,
+[ERROR]  100 flash
+[State] t:87183 LS:20 ALT:0.07 VEL:-0.00
+[State] mc:0, dc:1, v:8.01, c:44522.97,
+[ERROR]  100 flash
+[State] t:93187 LS:20 ALT:0.12 VEL:-0.03
+[State] mc:0, dc:1, v:8.00, c:44387.84,
+[ERROR]  100 flash
+[State] t:99185 LS:20 ALT:0.15 VEL:-0.03
+[State] mc:0, dc:1, v:7.97, c:44604.05,
+[ERROR]  100 flash
+[State] t:105204 LS:20 ALT:0.20 VEL:0.02
+[State] mc:0, dc:1, v:7.99, c:45009.46,
+[ERROR]  100 flash
+[State] t:111213 LS:20 ALT:0.18 VEL:-0.03
+[State] mc:0, dc:1, v:8.01, c:44766.21,
+[ERROR]  100 flash
+[State] t:117119 LS:20 ALT:0.24 VEL:0.03
+[State] mc:0, dc:1, v:8.00, c:45009.46,
+[ERROR]  100 flash
+[State] t:123158 LS:20 ALT:0.22 VEL:-0.01
+[State] mc:0, dc:1, v:7.96, c:44279.73,
+[ERROR]  100 flash
+[State] t:129186 LS:20 ALT:0.25 VEL:-0.02
+[State] mc:0, dc:1, v:8.00, c:44360.81,
+[ERROR]  100 flash
+[State] t:135130 LS:20 ALT:0.27 VEL:-0.04
+[State] mc:0, dc:1, v:8.00, c:44739.19,
+[ERROR]  100 flash
+[State] t:141161 LS:20 ALT:0.31 VEL:-0.00
+[State] mc:0, dc:1, v:8.00, c:44604.05,
+[ERROR]  100 flash
+[State] mc:0, dc:1, v:7.99, c:44874.32,
+[ERROR]  100 flash
+[State] t:153130 LS:20 ALT:0.40 VEL:0.04
+[State] mc:0, dc:1, v:8.01, c:44441.89,
+[ERROR]  100 flash
+[State] t:159153 LS:20 ALT:0.39 VEL:0.01
+[State] mc:0, dc:1, v:7.99, c:44955.41,
+[ERROR]  100 flash
+[State] t:165199 LS:20 ALT:0.39 VEL:-0.01
+[State] mc:0, dc:1, v:7.96, c:44604.05,
+[ERROR]  100 flash
+[State] t:171126 LS:20 ALT:0.32 VEL:-0.02
+[State] mc:0, dc:1, v:8.00, c:44387.84,
+[ERROR]  100 flash
+[State] t:177158 LS:20 ALT:0.36 VEL:0.01
+[State] mc:0, dc:1, v:8.00, c:44712.16,
+[ERROR]  100 flash
+[State] t:183203 LS:20 ALT:0.38 VEL:0.01
+[State] mc:0, dc:1, v:8.01, c:44847.30,
+[ERROR]  100 flash
+[State] t:189129 LS:20 ALT:0.39 VEL:0.03
+[State] mc:0, dc:1, v:7.98, c:44225.68,
+[ERROR]  100 flash
+[State] t:195161 LS:20 ALT:0.39 VEL:0.01
+[State] mc:0, dc:1, v:7.99, c:44928.38,
+[ERROR]  100 flash
+[State] t:201204 LS:20 ALT:0.37 VEL:0.01
+[State] mc:0, dc:1, v:8.00, c:44387.84,
+[ERROR]  100 flash
+[State] t:207148 LS:20 ALT:0.38 VEL:0.01
+[State] mc:0, dc:1, v:7.99, c:44360.81,
+[ERROR]  100 flash
+[State] t:213200 LS:20 ALT:0.38 VEL:-0.02
+[State] mc:0, dc:1, v:8.00, c:44495.95,
+[ERROR]  100 flash
+[State] t:219154 LS:20 ALT:0.41 VEL:0.05
+[State] mc:0, dc:1, v:7.99, c:44577.03,
+[ERROR]  100 flash
+[State] t:225209 LS:20 ALT:0.48 VEL:0.09
+[State] mc:0, dc:1, v:7.98, c:44387.84,
+[ERROR]  100 flash
+[State] t:231140 LS:20 ALT:0.34 VEL:-0.04
+[State] mc:0, dc:1, v:7.96, c:44387.84,
+[ERROR]  100 flash
+[State] t:237188 LS:20 ALT:0.38 VEL:0.02
+[State] mc:0, dc:1, v:8.00, c:44550.00,
+[ERROR]  100 flash
+[State] t:243144 LS:20 ALT:0.38 VEL:0.01
+[State] mc:0, dc:1, v:7.98, c:44604.05,
+[ERROR]  100 flash
+[State] t:249203 LS:20 ALT:0.33 VEL:-0.04
+[State] mc:0, dc:1, v:8.00, c:44550.00,
+[ERROR]  100 flash
+[State] t:255158 LS:20 ALT:0.38 VEL:0.01
+[State] mc:0, dc:1, v:7.99, c:44144.59,
+[ERROR]  100 flash
+[State] t:261215 LS:20 ALT:0.35 VEL:-0.04
+[State] mc:0, dc:1, v:8.00, c:44360.81,
+[ERROR]  100 flash
+[State] t:267146 LS:20 ALT:0.36 VEL:0.02
+[State] mc:0, dc:1, v:8.00, c:44495.95,
+[ERROR]  100 flash
+[State] t:273185 LS:20 ALT:0.44 VEL:0.03
+[State] mc:0, dc:1, v:8.00, c:44198.65,
+[ERROR]  100 flash
+[State] t:279135 LS:20 ALT:0.40 VEL:-0.06
+[State] mc:0, dc:1, v:7.99, c:44793.24,
+[ERROR]  100 flash
+[State] t:285181 LS:40 ALT:198.22 VEL:55.47
+[State] mc:0, dc:1, v:8.00, c:44495.95,
+[ERROR]  100 flash
+[State] t:291211 LS:50 ALT:283.10 VEL:-12.54
+[State] mc:0, dc:0, v:7.70, c:45685.14,
+[ERROR]  100 flash
+[State] t:297129 LS:60 ALT:244.87 VEL:-6.41
+[State] mc:0, dc:1, v:7.98, c:44766.21,
+[ERROR]  100 flash
+[State] t:303154 LS:60 ALT:206.45 VEL:-6.26
+[State] mc:0, dc:1, v:7.99, c:44874.32,
+[ERROR]  100 flash
+[State] t:309178 LS:60 ALT:168.75 VEL:-6.64
+[State] mc:0, dc:1, v:7.99, c:44279.73,
+[ERROR]  100 flash
+[State] t:315200 LS:60 ALT:131.68 VEL:-5.95
+[State] mc:0, dc:1, v:7.99, c:44441.89,
+[ERROR]  100 flash
+[State] t:321120 LS:80 ALT:90.89 VEL:-7.06
+[State] mc:0, dc:1, v:8.00, c:44441.89,
+[ERROR]  100 flash
+[State] t:327129 LS:90 ALT:45.49 VEL:-7.20
+[State] mc:0, dc:1, v:7.99, c:44441.89,
+[ERROR]  100 flash
+[State] t:333145 LS:90 ALT:-1.66 VEL:-8.06
+[State] mc:0, dc:1, v:7.97, c:44604.05,
+[ERROR]  100 flash
+[State] t:339154 LS:90 ALT:-1.55 VEL:0.03
+[State] mc:0, dc:1, v:8.00, c:44225.68,
+[ERROR]  100 flash
+[State] t:345163 LS:90 ALT:-1.48 VEL:0.04
+[State] mc:0, dc:1, v:8.01, c:44928.38,
+[ERROR]  100 flash
+[State] t:351178 LS:90 ALT:-1.46 VEL:0.01
+[State] mc:0, dc:1, v:8.01, c:44793.24,
+[ERROR]  100 flash
+[State] t:357198 LS:90 ALT:-1.45 VEL:-0.03
+[State] mc:0, dc:1, v:8.00, c:44847.30,
+[ERROR]  100 flash
+[State] t:363213 LS:90 ALT:-1.40 VEL:0.03
+[State] mc:0, dc:1, v:8.01, c:44387.84,
+[ERROR]  100 flash
+[State] t:369130 LS:90 ALT:-1.39 VEL:-0.02
+[State] mc:0, dc:1, v:8.00, c:44387.84,
+[ERROR]  100 flash
+[State] t:375152 LS:90 ALT:-1.29 VEL:0.05
+[State] mc:0, dc:1, v:8.02, c:44387.84,
+[ERROR]  100 flash
+[State] t:381172 LS:90 ALT:-1.29 VEL:-0.02
+[State] mc:0, dc:1, v:7.99, c:44928.38,
+[ERROR]  100 flash
+[State] t:387198 LS:90 ALT:-1.23 VEL:-0.02
+[State] mc:0, dc:1, v:7.97, c:44847.30,
+[ERROR]  100 flash
+[State] t:393219 LS:90 ALT:-1.19 VEL:0.03
+[State] mc:0, dc:1, v:8.02, c:44387.84,
+[ERROR]  100 flash
+[State] t:399155 LS:90 ALT:-1.12 VEL:0.02
+[State] mc:0, dc:1, v:8.01, c:44522.97,
+[ERROR]  100 flash
+[State] t:405174 LS:90 ALT:-1.01 VEL:0.01
+[State] mc:0, dc:1, v:8.01, c:44387.84,
+[ERROR]  100 flash
+[State] t:411190 LS:90 ALT:-1.04 VEL:0.01
+[State] mc:0, dc:1, v:8.02, c:44522.97,
+[ERROR]  100 flash
+[State] t:417200 LS:90 ALT:-0.97 VEL:0.01
+[State] mc:0, dc:1, v:8.01, c:44793.24,
+[ERROR]  100 flash
+[State] t:423207 LS:90 ALT:-0.92 VEL:0.02
+[State] mc:0, dc:1, v:8.00, c:44495.95,
+[ERROR]  100 flash
+[State] t:429207 LS:90 ALT:-0.87 VEL:0.00
+[State] mc:0, dc:1, v:8.01, c:44387.84,
+[ERROR]  100 flash
+[State] t:435213 LS:90 ALT:-0.78 VEL:0.03
+[State] mc:0, dc:1, v:7.96, c:44360.81,
+[ERROR]  100 flash
+[State] t:441121 LS:90 ALT:-0.77 VEL:-0.05
+[State] mc:0, dc:1, v:8.01, c:44550.00,
+[ERROR]  100 flash
+[State] t:447143 LS:90 ALT:-0.68 VEL:0.03
+[State] mc:0, dc:1, v:8.02, c:43928.38,
+[ERROR]  100 flash
+[State] t:453169 LS:90 ALT:-0.62 VEL:-0.00
+[State] mc:0, dc:1, v:7.98, c:44495.95,
+[ERROR]  100 flash
+[State] t:459194 LS:90 ALT:-0.53 VEL:0.04
+[State] mc:0, dc:1, v:7.99, c:44928.38,
+[ERROR]  100 flash
+[State] t:465119 LS:90 ALT:-0.49 VEL:0.00
+[State] mc:0, dc:1, v:8.01, c:43658.11,
+[ERROR]  100 flash
+[State] t:471144 LS:90 ALT:-0.41 VEL:0.04
+[State] mc:0, dc:1, v:7.98, c:44495.95,
+[ERROR]  100 flash
+[State] t:477170 LS:90 ALT:-0.36 VEL:0.03
+[State] mc:0, dc:1, v:7.99, c:44387.84,
+[ERROR]  100 flash
+[State] t:483201 LS:90 ALT:-0.30 VEL:0.02
+[State] mc:0, dc:1, v:7.99, c:44441.89,
+[ERROR]  100 flash
+[State] t:489125 LS:90 ALT:-0.28 VEL:-0.02
+[State] mc:0, dc:1, v:8.00, c:44225.68,
+[ERROR]  100 flash
+[State] t:495144 LS:90 ALT:-0.21 VEL:0.02
+[State] mc:0, dc:1, v:8.01, c:44441.89,
+[ERROR]  100 flash
+[State] t:501182 LS:90 ALT:-0.09 VEL:0.08
+[State] mc:0, dc:1, v:8.00, c:44279.73,
+[ERROR]  100 flash
+[State] t:507192 LS:90 ALT:-0.12 VEL:-0.03
+[State] mc:0, dc:1, v:8.01, c:44333.79,
+[ERROR]  100 flash
+[State] t:513202 LS:90 ALT:-0.03 VEL:0.02
+[State] mc:0, dc:1, v:8.01, c:44441.89,
+[ERROR]  100 flash
+[State] t:519220 LS:90 ALT:-0.00 VEL:-0.02
+[State] mc:0, dc:1, v:8.01, c:44793.24,
+[ERROR]  100 flash
+[State] t:525121 LS:90 ALT:0.04 VEL:-0.03
+[State] mc:0, dc:1, v:8.01, c:44441.89,
+[ERROR]  100 flash
+[State] t:531128 LS:90 ALT:0.13 VEL:0.02
+[State] mc:0, dc:1, v:8.01, c:44387.84,
+[ERROR]  100 flash
+[State] t:537142 LS:90 ALT:0.20 VEL:0.03
+[State] mc:0, dc:1, v:8.01, c:44441.89,
+[ERROR]  100 flash
+[State] t:543160 LS:90 ALT:0.22 VEL:-0.04
+[State] mc:0, dc:1, v:8.01, c:44387.84,
+[ERROR]  100 flash
+[State] t:549182 LS:90 ALT:0.24 VEL:-0.05
+[State] mc:0, dc:1, v:8.02, c:44522.97,
+[ERROR]  100 flash
+[State] t:555205 LS:90 ALT:0.35 VEL:0.02
+[State] mc:0, dc:1, v:8.01, c:44387.84,
+[ERROR]  100 flash
+[State] t:561123 LS:90 ALT:0.36 VEL:0.00
+[State] mc:0, dc:1, v:8.00, c:44550.00,
+[ERROR]  100 flash
+[State] t:567148 LS:90 ALT:0.41 VEL:-0.02
+[State] mc:0, dc:1, v:8.01, c:44577.03,
+[ERROR]  100 flash
+[State] t:573186 LS:90 ALT:0.46 VEL:0.07
+[State] mc:0, dc:1, v:7.94, c:45063.51,
+[ERROR]  100 flash
+[State] t:579215 LS:90 ALT:0.44 VEL:-0.02
+[State] mc:0, dc:1, v:8.00, c:44522.97,
+[ERROR]  100 flash
+[State] t:585135 LS:90 ALT:0.50 VEL:0.01
+[State] mc:0, dc:1, v:8.01, c:44225.68,
+[ERROR]  100 flash
+[State] t:591159 LS:90 ALT:0.58 VEL:0.06
+[State] mc:0, dc:1, v:8.00, c:44441.89,
+[ERROR]  100 flash
+[State] t:597187 LS:90 ALT:0.61 VEL:0.01
+[State] mc:0, dc:1, v:7.99, c:44360.81,
+[ERROR]  100 flash
+[State] t:603194 LS:90 ALT:0.68 VEL:0.05
+[State] mc:0, dc:1, v:8.00, c:44144.59,
+[ERROR]  100 flash
+[State] t:609201 LS:90 ALT:0.75 VEL:0.10
+[State] mc:0, dc:1, v:7.99, c:44495.95,
+[ERROR]  100 flash
+[State] t:615120 LS:90 ALT:0.75 VEL:-0.00
+[State] mc:0, dc:1, v:8.01, c:44441.89,
+[ERROR]  100 flash
+[State] t:621129 LS:90 ALT:0.78 VEL:0.04
